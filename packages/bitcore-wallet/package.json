@@ -20,14 +20,14 @@
   "dependencies": {
     "async": "^2.5.0",
     "bitcore-lib": "^10.10.7",
-    "bitcore-wallet-client": "^10.10.15",
+    "bitcore-wallet-client": "^11.5.2",
     "commander": "^2.6.0",
     "lodash": "^3.3.1",
     "moment": "^2.9.0",
     "npmlog": "^1.2.0",
     "qr-image": "^3.1.0",
     "read": "^1.0.5",
-    "sjcl": "^1.0.2"
+    "sjcl": "^1.0.9"
   },
   "devDependencies": {
     "chai": "^3.3.0",
